@@ -1,2 +1,2 @@
-# personal-portfolio
-This is a simple developer portfolio
+# personal-portfolio-website
+This is a simple developer portfolio 
